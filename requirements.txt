@@ -1,0 +1,8 @@
+requests
+newspaper3k
+beautifulsoup4
+vaderSentiment
+gtts
+deep-translator
+streamlit
+flask
